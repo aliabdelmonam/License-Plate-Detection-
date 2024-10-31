@@ -6,4 +6,9 @@ The License Plate Recognition Project is a robust and efficient system designed 
 -  **YOLOV8n** (You Only Look Once) for fast and accurate license plate detection.
 -  **PaddleOCR** for reliable text recognition, supporting multiple languages.
 -  **FFmpeg** re-encode the video cause `OpenCV` and `skvideo` libraries, which you likely used to generate or manipulate the video, may encode MP4 files using codecs that are not fully supported by the HTML5 video player TML5 video players, which Streamlit uses to display videos, only support certain codecs reliably `H.264` for video
+
+ ## Componenet
+ - `best.pt`: model weights **YOLOv8n**
+ - `Deployment.py`: model deployment
+ - `pp.pt`: functions
  
