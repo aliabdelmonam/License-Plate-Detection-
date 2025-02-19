@@ -11,4 +11,12 @@ The License Plate Recognition Project is a robust and efficient system designed 
  - `best.pt`: model weights **YOLOv8n**
  - `Deployment.py`: model deployment
  - `pp.pt`: functions
- 
+
+## Installation
+To run this project, install the required dependencies:  
+```bash
+pip install -r requirements.txt
+```
+To run Deployment:
+```bash
+streamlit run Deployment.py
