@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+matplotlib
+subprocess
+pandas
+ultralytics
+streamlit
